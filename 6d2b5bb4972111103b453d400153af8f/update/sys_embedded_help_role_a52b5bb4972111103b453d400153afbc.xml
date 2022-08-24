@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_866822_automat_0.admin" name="x_866822_automat_0.admin">a92b5bb4972111103b453d400153afba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 05:21:19</sys_created_on>
+        <sys_id>a52b5bb4972111103b453d400153afbc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a92b5bb4972111103b453d400153afba</sys_name>
+        <sys_package display_value="Automation Demo" source="x_866822_automat_0">6d2b5bb4972111103b453d400153af8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Automation Demo">6d2b5bb4972111103b453d400153af8f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a52b5bb4972111103b453d400153afbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 05:21:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
